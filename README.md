@@ -9,6 +9,8 @@
 ### My skills
 <img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<br>
      
 ### ⚔️ My CodeWars:
-![alt rank](https://www.codewars.com/users/Hikkrir/badges/large)
+![alt rank](https://www.codewars.com/users/Hikkrir/badges/small)
