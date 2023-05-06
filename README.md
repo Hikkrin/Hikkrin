@@ -1,6 +1,6 @@
 <div align= "center">
 <h1>Gavrichenko Nikita</h1>
-<img src= "https://github-readme-stats.vercel.app/api?username=Hikkrir&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src= "https://github-readme-stats.vercel.app/api?username=Hikkrin&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
 <br>
 <img src="https://www.codewars.com/users/Hikkrir/badges/large"/>
 <br>
